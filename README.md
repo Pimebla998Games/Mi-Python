@@ -1,2 +1,2 @@
-# Pascal
-Pascal Code
+# Python
+PythonCode
